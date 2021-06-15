@@ -1,0 +1,30 @@
+[
+  {
+    "abbr": "MD",
+    "firstname": "Michael",
+    "lastname": "Daavi",
+    "lat": "32.361538",
+    "long": "-86.279118"
+  },
+  {
+    "abbr": "PK",
+    "firstname": "Pascal",
+    "lastname": "Kwarteng",
+    "lat": "58.301935",
+    "long": "-134.419740"
+  },
+  {
+    "abbr": "AM",
+    "firstname": "Anthony",
+    "lastname": "Myers",
+    "lat": "33.448457",
+    "long": "-112.073844"
+  },
+  {
+    "abbr": "AD",
+    "firstname": "Derick",
+    "lastname": "Boateng",
+    "lat": "34.736009",
+    "long": "-92.331122"
+  }
+]
